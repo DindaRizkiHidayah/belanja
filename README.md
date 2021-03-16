@@ -1,5 +1,13 @@
 # belanja
 
+Output HomePage
+
+<img width="542" alt="1" src="https://user-images.githubusercontent.com/70737564/111274451-971dd400-8667-11eb-8b8b-8ad89f5454f2.PNG">
+
+Output Itempage
+
+<img width="541" alt="2" src="https://user-images.githubusercontent.com/70737564/111274459-98e79780-8667-11eb-9658-093628079ec3.PNG">
+
 A new Flutter project.
 
 ## Getting Started
